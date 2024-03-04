@@ -57,7 +57,7 @@ export const balls = [
     level: 10,
     radius: 154,
     color: "#8A2BE2",
-    imageUrl: "/animals/1.png",
+    imageUrl: "/animals/10.png",
   },
   {
     level: 11,
