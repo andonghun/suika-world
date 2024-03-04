@@ -1,4 +1,4 @@
-export const animals = [
+export const balls = [
   {
     level: 1,
     radius: 20,
